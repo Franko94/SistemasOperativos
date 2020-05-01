@@ -1,3 +1,5 @@
+package ConversacionHilosPkg;
+
 public class Conversacion {
 
     private static String numero;

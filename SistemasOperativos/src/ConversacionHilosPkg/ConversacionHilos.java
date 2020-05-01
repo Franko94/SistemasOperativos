@@ -1,3 +1,5 @@
+package ConversacionHilosPkg;
+
 public class ConversacionHilos {
 
     public static void main(String[] args) {
@@ -9,5 +11,3 @@ public class ConversacionHilos {
         contestador.start();
     }
 }
-
-C:\Documents and Settings\Usuario\Desktop\workspace\src\ConversacionHilos.java
